@@ -1,0 +1,10 @@
+temp/
+build/
+ext/
+.sencha_backup/
+*slicer-temp*
+.sass-cache/
+/bootstrap*
+classic.json
+modern.json
+sass/example/bootstrap*
